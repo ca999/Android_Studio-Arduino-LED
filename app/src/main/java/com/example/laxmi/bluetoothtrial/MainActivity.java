@@ -1,7 +1,4 @@
 package com.example.laxmi.bluetoothtrial;
-//hello,I have kind of reversed engineered this from a code I found online.
-//I am gonna try and used this code in my app Alarmmed to switch on the sprayer when the alarm rings
-//BTW,I dont know how all of it works xD
 import android.app.ProgressDialog;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
